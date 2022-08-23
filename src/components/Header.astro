@@ -1,0 +1,147 @@
+---
+  export interface Props {
+  id: string;
+}
+const { id } = Astro.props
+---
+
+<header class="header">
+  <div class="content-header">
+    <div class="logo">
+      <a href="/">
+        <img
+          class="img"
+          src="/logo.svg"
+          alt="puede ser la imagen de un logo que contiene el rostro de un gato negro con una c en la frente"
+        />
+      </a>
+    </div>
+    <nav class="nav">
+      <a class="Inicio" href="#Inicio">Inicio</a>
+      <a class="Programas" href="#Programas">Programas</a>
+    </nav>
+    <div class="menu-bar">
+      <svg
+        class="bar"
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 24 24"
+        width="24"
+        height="24"
+        ><path fill="none" d="M0 0h24v24H0z"></path><path
+          d="M12 3v2H3V3h9zm4 16v2H3v-2h13zm6-8v2H3v-2h19z"
+          fill="rgba(245,245,245,1)"></path>
+      </svg>
+      <svg
+        class="close"
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 24 24"
+        width="30"
+        height="30"
+        ><path fill="none" d="M0 0h24v24H0z"></path><path
+          d="M12 10.586l4.95-4.95 1.414 1.414-4.95 4.95 4.95 4.95-1.414 1.414-4.95-4.95-4.95 4.95-1.414-1.414 4.95-4.95-4.95-4.95L7.05 5.636z"
+          fill="rgba(245,245,245,1)"></path>
+      </svg>
+    </div>
+  </div>
+</header>
+
+<style>
+  .header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .content-header {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    height: 7.6rem;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+  }
+
+  .nav {
+    display: flex;
+    position: fixed;
+    flex-direction: column;
+    top: 0;
+    left: -100%;
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    z-index: 2;
+    width: 25rem;
+    height: 100vh;
+    align-items: center;
+    justify-content: start;
+    padding-top: 5rem;
+    transition: left 0.5s ease-in-out;
+  }
+
+  @media (min-width: 768px) {
+    .nav {
+      left: unset;
+      right: 0;
+      flex-direction: row;
+      position: relative;
+      backdrop-filter: none;
+      width: unset;
+      height: unset;
+      justify-content: center;
+      padding-top: 0;
+    }
+  }
+
+  .nav-active {
+    left: 0;
+  }
+
+  @media (min-width: 768px) {
+    .menu-bar {
+      display: none;
+    }
+  }
+
+  .bar {
+    transform: rotate(180deg);
+  }
+
+  .close {
+    display: none;
+  }
+
+  .nav a {
+    text-decoration: none;
+    color: #828282;
+    font-size: 16px;
+    padding: 10px;
+    transition: 0.3s;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+
+  .nav a:hover {
+    color: #fff;
+  }
+
+  :global(.nav a.anchor-active) {
+    color: #ffffff;
+  }
+
+  .logo {
+    width: 5.2rem;
+    height: 5.2rem;
+  }
+
+  .img {
+    width: 5.2rem;
+    height: 5.2rem;
+  }
+</style>

@@ -1,0 +1,133 @@
+[
+  {
+    "id": "0",
+    "title": "Adobe Photoshop",
+    "description": "Adobe Photoshop 2021 full en todos los idiomas. 1 sólo intalador.",
+    "url": "https://exe.io/AdobePs",
+    "pwd": "rxtsel",
+    "steps": "",
+    "img": "/photoshop.svg",
+    "alt": "Puede ser el icono del logo de adobe photoshop"
+  },
+  {
+    "id": "1",
+    "title": "Adobe Illustrator",
+    "description": "Adobe Illustrator 2021 full en todos los idiomas. 1 sólo intalador.",
+    "url": "https://exe.io/HqrC7",
+    "pwd": "rxtsel",
+    "steps": "",
+    "img": "/illustrator.svg",
+    "alt": "Puede ser el icono del logo de adobe illustrator"
+  },
+  {
+    "id": "2",
+    "title": "Adobe Premiere Pro",
+    "description": "Adobe Premiere Pro 2021 full en todos los idiomas. 1 sólo intalador.",
+    "url": "https://exe.io/ff6M",
+    "pwd": "rxtsel",
+    "steps": "",
+    "img": "/premiere.svg",
+    "alt": "Puede ser el icono del logo de adobe premiere pro"
+  },
+  {
+    "id": "3",
+    "title": "Adobe Acrobat Pro",
+    "description": "Adobe Acrobat Pro DC 2021 full en todos los idiomas. 1 sólo intalador.",
+    "url": "https://exe.io/RMVuj",
+    "pwd": "rxtsel",
+    "steps": "",
+    "img": "/acrobat.png",
+    "alt": "Puede ser el icono del logo de adobe acrobat pro"
+  },
+  {
+    "id": "4",
+    "title": "Dolby Atmos",
+    "description": "Dolby Atmos Full. Version Basic y Gaming.",
+    "url": "https://exe.io/jPlzKr",
+    "pwd": "rxtsel",
+    "steps": "",
+    "img": "dolby.jpeg",
+    "alt": "Puede ser el icono del logo de dolby atmos"
+  },
+  {
+    "id": "5",
+    "title": "Driver Easy",
+    "description": "Instala la última versión de tus drivers o busca los que te hagan falta.",
+    "url": "https://exe.io/tFDzL6P2",
+    "pwd": "rxtsel",
+    "steps": "",
+    "img": "/driver-easy.svg",
+    "alt": "Puede ser el icono del logo de driver easy"
+  },
+  {
+    "id": "6",
+    "title": "Iobit Uninstaller Pro",
+    "description": "Desinstala programas sin dejar ningún archivo basura.",
+    "url": "https://exe.io/WgQsPY",
+    "pwd": "rxtsel",
+    "steps": "",
+    "img": "/iobit.png",
+    "alt": "Puede ser el icono del logo de iobit uninstaller pro"
+  },
+  {
+    "id": "7",
+    "title": "Camtasia Studio",
+    "description": "Poderosísima herramienta para grabar pantalla o editar vídeos.",
+    "url": "https://exe.io/8OkIF4vv",
+    "pwd": "rxtsel",
+    "steps": "",
+    "img": "/camtasia.png",
+    "alt": "Puede ser el icono del logo de camtasia estudio"
+  },
+  {
+    "id": "8",
+    "title": "VMware 16 Pro",
+    "description": "Ejecuta máquinas virtuales en PC con Linux o Windows.",
+    "url": "https://exe.io/nrnf3gjL",
+    "pwd": "rxtsel",
+    "steps": "",
+    "img": "/vmware.png",
+    "alt": "Puede ser el icono del logo de vmware workstation pro"
+  },
+  {
+    "id": "9",
+    "title": "Vuescan",
+    "description": "Herramienta premium para escanear. Soporta todas las impresoras.",
+    "url": "https://exe.io/BzOvdYX",
+    "pwd": "rxtsel",
+    "steps": "",
+    "img": "/vuescan.png",
+    "alt": "Puede ser el icono del logo de vuescan"
+  },
+  {
+    "id": "10",
+    "title": "MiniTool Partition",
+    "description": "Administrador de particiones, conversión de discos, recupera datos.",
+    "url": "https://exe.io/vF6zy",
+    "pwd": "rxtsel",
+    "steps": "",
+    "img": "/minitool.jpg",
+    "alt": "Puede ser el icono del logo de minitool partition wizard"
+  },
+  {
+    "id": "11",
+    "title": "KMSpiko",
+    "description": "Instala licencias de windows y de office permanentemente gratis.",
+    "url": "https://exe.io/Ah1LJ3e",
+    "pwd": "rxtsel",
+    "steps": "",
+    "img": "/kmspico.png",
+    "alt": "Puede ser el icono del logo de kmspico"
+  },
+  {
+    "id": "12",
+    "title": "Office 365",
+    "description": "Instalador de Office 365 completamente original.",
+    "url": "https://exe.io/xcw5esu",
+    "pwd": "rxtsel",
+    "steps": "",
+    "img": "/office.svg",
+    "alt": "Puede ser el icono del logo de pack de office 365"
+  }
+]
+
