@@ -10,7 +10,7 @@ const {data} = Astro.props as Props;
 	data.map(({title, description, url, img, alt}) => 
 	<li class="link-card">
 
-		<img src={img} alt={alt}/>
+		<img src={img} alt={alt} loading="lazy"/>
 
 		<div class="link-card-content">
 				<a href={url} target="_blank">

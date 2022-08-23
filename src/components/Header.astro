@@ -6,6 +6,7 @@
           class="img"
           src="logo.svg"
           alt="puede ser la imagen de un logo que contiene el rostro de un gato negro con una c en la frente"
+          loading="lazy"
         />
       </a>
     </div>
@@ -136,5 +137,11 @@
   .img {
     width: 5.2rem;
     height: 5.2rem;
+    transition: transform .3s ease-in-out;
   }
+
+  .img:hover {
+    transform: scale(1.1);
+  }
+
 </style>
