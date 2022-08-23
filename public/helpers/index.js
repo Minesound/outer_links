@@ -32,7 +32,6 @@ document.addEventListener('DOMContentLoaded', () => {
   }
   )
 
-
   const sectionHome = $('#Inicio')
   const sectionPrograms = $('#Programas')
   const inicio = $('.Inicio')
@@ -64,6 +63,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
   observador.observe(sectionHome)
   observador.observe(sectionPrograms)
-
 
 })
