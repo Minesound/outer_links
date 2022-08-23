@@ -34,8 +34,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const sectionHome = $('#Inicio')
   const sectionPrograms = $('#Programas')
+  const sectionAbout = $('#About')
   const inicio = $('.Inicio')
   const programas = $('.Programas')
+  const about = $('.About')
 
   const anchorActive = entradas => {
     entradas.forEach(entrada => {
@@ -51,6 +53,12 @@ document.addEventListener('DOMContentLoaded', () => {
         } else {
           programas.classList.remove('anchor-active')
         }
+
+        if (entrada.target.id === 'About') {
+          about.classList.add('anchor-active')
+        } else {
+          about.classList.remove('anchor-active')
+        }
       }
     })
   }
@@ -63,5 +71,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
   observador.observe(sectionHome)
   observador.observe(sectionPrograms)
+  observador.observe(sectionAbout)
 
 })

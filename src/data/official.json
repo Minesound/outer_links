@@ -1,0 +1,99 @@
+[
+  {
+    "id": "0",
+    "title": "Adobe Photoshop",
+    "description": "",
+    "url": "https://www.adobe.com/products/photoshop.html",
+    "img": "photoshop.svg",
+    "alt": "Puede ser el icono del logo de adobe photoshop"
+  },
+  {
+    "id": "1",
+    "title": "Adobe Illustrator",
+    "description": "",
+    "url": "https://www.adobe.com/products/illustrator.html",
+    "img": "illustrator.svg",
+    "alt": "Puede ser el icono del logo de adobe illustrator"
+  },
+  {
+    "id": "2",
+    "title": "Adobe Premiere Pro",
+    "description": "",
+    "url": "https://www.adobe.com/products/premiere.html",
+    "img": "premiere.svg",
+    "alt": "Puede ser el icono del logo de adobe premiere pro"
+  },
+  {
+    "id": "3",
+    "title": "Adobe Acrobat Pro",
+    "description": "",
+    "url": "https://www.adobe.com/acrobat.html",
+    "img": "acrobat.png",
+    "alt": "Puede ser el icono del logo de adobe acrobat pro"
+  },
+  {
+    "id": "4",
+    "title": "Dolby Atmos",
+    "description": "",
+    "url": "https://www.dolby.com/technologies/dolby-atmos/",
+    "img": "dolby.jpeg",
+    "alt": "Puede ser el icono del logo de dolby atmos"
+  },
+  {
+    "id": "5",
+    "title": "Driver Easy",
+    "description": "",
+    "url": "https://www.drivereasy.com/",
+    "img": "driver-easy.svg",
+    "alt": "Puede ser el icono del logo de driver easy"
+  },
+  {
+    "id": "6",
+    "title": "Iobit Uninstaller Pro",
+    "description": "",
+    "url": "https://www.iobit.com/en/advanceduninstaller.php",
+    "img": "iobit.png",
+    "alt": "Puede ser el icono del logo de iobit uninstaller pro"
+  },
+  {
+    "id": "7",
+    "title": "Camtasia Studio",
+    "description": "",
+    "url": "https://www.techsmith.es/store/camtasia",
+    "img": "camtasia.png",
+    "alt": "Puede ser el icono del logo de camtasia estudio"
+  },
+  {
+    "id": "8",
+    "title": "VMware 16 Pro",
+    "description": "",
+    "url": "https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html",
+    "img": "vmware.png",
+    "alt": "Puede ser el icono del logo de vmware workstation pro"
+  },
+  {
+    "id": "9",
+    "title": "Vuescan",
+    "description": "",
+    "url": "https://www.hamrick.com/",
+    "img": "vuescan.png",
+    "alt": "Puede ser el icono del logo de vuescan"
+  },
+  {
+    "id": "10",
+    "title": "MiniTool Partition",
+    "description": "",
+    "url": "https://www.minitool.com/partition-manager/",
+    "img": "minitool.jpg",
+    "alt": "Puede ser el icono del logo de minitool partition wizard"
+  },
+  {
+    "id": "11",
+    "title": "Office 365",
+    "description": "",
+    "url": "https://www.office.com/",
+    "img": "office.svg",
+    "alt": "Puede ser el icono del logo de pack de office 365"
+  }
+]
+

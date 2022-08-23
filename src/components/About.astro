@@ -1,0 +1,75 @@
+---
+import Card from "./Card.astro";
+import official from '../data/official.json'
+---
+
+<section id="About">
+  <h2>Sobre Nosotros</h2>
+  <p>Sitio web hecho sin fines de lucro con fines educativos. Prueba el software y anímate a comprar las licencias originales.</p>
+  <h3 class="subtitle">Links a sus páginas oficiales para comprar.</h3>
+  <div class="grid">
+    <Card data={official}/>
+  </div>
+</section>
+
+<style>
+    section {
+    height: auto;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #513b56;
+  }
+  h2 {
+    color: #fff;
+    max-width: 800px;
+    width: 90%;
+    font-size:2.6rem;
+    line-height: 1.2;
+    margin: 2rem auto;
+    text-align: center;
+    padding-top: 7.6rem;
+  }
+
+  p {
+    color: #f5f5f5;
+    max-width: 95%;
+    word-wrap: break-word;
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .subtitle {
+    margin-bottom: 4rem;
+    color: #f5f5f5;
+    text-align: center;
+  }
+
+  @media (max-width: 768px) {
+    p {
+      font-size: 1.4rem;
+      text-align: center;
+    }
+  }
+
+  @media (min-width: 768px) {
+    h2 {
+      font-size: 6.2rem;
+      font-weight: bolder;
+    }
+  }
+
+    .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 1rem;
+    justify-items: center;
+    align-items: center;
+    width: 90%;
+    max-width: 800px;
+    margin: 2rem auto;
+  }
+
+</style>
