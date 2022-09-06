@@ -8,7 +8,7 @@ const { isAnuncio } = Astro.props
       <a href="/">
         <img
           class="img"
-          src="logo.svg"
+          src={ isAnuncio ? '/logo.svg' : 'logo.svg'}
           alt="puede ser la imagen de un logo que contiene el rostro de un gato negro con una c en la frente"
           loading="lazy"
         />
