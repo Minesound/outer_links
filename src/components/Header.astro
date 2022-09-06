@@ -1,3 +1,7 @@
+---
+const { isAnuncio } = Astro.props
+---
+
 <header class="header">
   <div class="content-header">
     <div class="logo">
@@ -11,9 +15,10 @@
       </a>
     </div>
     <nav class="nav">
-      <a class="Inicio" href="#Inicio">Inicio</a>
-      <a class="Programas" href="#Programas">Programas</a>
-      <a class="About" href="#About">Nosotros</a>
+      <a class="Inicio" href={isAnuncio ? '/#Inicio' : '#Inicio'}>Inicio</a>
+      <a class="Programas" href={ isAnuncio ? '/#Programas' : '#Programas'}>Programas</a>
+      <a class="About" href={ isAnuncio ? '/#About' : '#About'}>Nosotros</a>
+      <a class={ isAnuncio ? 'anchor-active' : ''} href={ isAnuncio ? '/anuncios' : 'anuncios'}>Anuncios</a>
     </nav>
     <div class="menu-bar">
       <svg
