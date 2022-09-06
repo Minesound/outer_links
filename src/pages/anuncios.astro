@@ -6,7 +6,7 @@ const url = new URL(Astro.request.url)
 const isAnuncio = url.pathname.includes('anuncios')
 ---
 
-<Layout title="Anuncios | Programas Premium">
+<Layout title="Anuncios | Programas Premium" isAnuncio={isAnuncio}>
 
   <Header isAnuncio={isAnuncio}/>
 
