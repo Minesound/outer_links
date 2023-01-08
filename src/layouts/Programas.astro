@@ -60,7 +60,9 @@ import Tutorial from '../components/Tutorial.astro'
         <h2 class="text-3xl my-8 font-mplus">Enlaces de descarga:</h2>
         <ul class="list-disc flex flex-col gap-5 ml-14 mb-32">
           <li><a href={mega} target="_blank">Mega</a></li>
-          <li><a href={mediafire} target="_blank">Mediafire</a></li>
+          {
+            mediafire === "" ? "" : <li><a href={mediafire} target="_blank">Mediafire</a></li>
+          }
         </ul>
       </Content>
     </main>

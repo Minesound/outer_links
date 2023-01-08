@@ -1,12 +1,12 @@
 ---
-description: Adobe Premiere Pro 2022
+description: Adobe Premiere Pro 2021
 public: true
 layout: ../../layouts/Programas.astro
-title: Adobe Premiere Pro 2022
+title: Adobe Premiere Pro 2021
 heroImage: /premiere.svg
-slug: adobe-premiere-pro-2022
-mega: "https://exe.io/Premiere2022Mega"
-mediafire: "https://exe.io/Premiere2022"
+slug: adobe-premiere-pro-2021
+mega: "https://exe.io/ff6M"
+mediafire: ""
 tutorial: ""
 ---
 
