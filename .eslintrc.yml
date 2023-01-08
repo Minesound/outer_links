@@ -8,5 +8,5 @@ overrides:
     parser: astro-eslint-parser
     parserOptions:
       parser: "@typescript-eslint/parser"
-      extraFileExtencions:
+      extraFileExtensions:
         - ".astro"
