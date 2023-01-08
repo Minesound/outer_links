@@ -29,9 +29,9 @@ import Tutorial from '../components/Tutorial.astro'
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{title}</title>
   <meta name="description" content={description}>
-  <link rel="icon" type="image/svg+xml" href="16x16.svg" sizes="16x16"/>
-  <link rel="icon" type="image/svg+xml" href="32x32.svg" sizes="32x32"/>
-  <link rel="icon" type="image/svg+xml" href="96x96.svg" sizes="96x96"/>
+  <link rel="icon" type="image/svg+xml" href="/16x16.svg" sizes="16x16"/>
+  <link rel="icon" type="image/svg+xml" href="/32x32.svg" sizes="32x32"/>
+  <link rel="icon" type="image/svg+xml" href="/96x96.svg" sizes="96x96"/>
   <link rel="apple-touch-icon" type="image/svg+xml" href="180x180.svg" sizes="180x180" >
     <script type='text/javascript' src='//resetselected.com/8d/ed/ff/8dedff145384ba4cd43eb782545e4261.js'></script>
 </head>
@@ -58,7 +58,7 @@ import Tutorial from '../components/Tutorial.astro'
         <slot />
         <Tutorial link={tutorial} title={title}/>
         <h2 class="text-3xl my-8 font-mplus">Enlaces de descarga:</h2>
-        <ul class="list-disc flex flex-col gap-5 ml-14">
+        <ul class="list-disc flex flex-col gap-5 ml-14 mb-32">
           <li><a href={mega} target="_blank">Mega</a></li>
           <li><a href={mediafire} target="_blank">Mediafire</a></li>
         </ul>
@@ -67,7 +67,7 @@ import Tutorial from '../components/Tutorial.astro'
   <script type="module" src='/helpers/index.js'></script>
  <Aside position='left' /> 
  <Aside position='right' /> 
-  <div class="Anuncios-ADS">
+  <div class="Anuncios-ADS absolute bottom-0">
     <script type="text/javascript">
     atOptions = {
       'key' : '99b16583ad66f0e225ca464009bee9e4',
