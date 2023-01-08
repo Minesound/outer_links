@@ -4,18 +4,26 @@ export interface Props {
     title: string
     description: string
     heroImage?: string
-    tags: string[]
+    mega?: string
+    mediafire?: string
+    tutorial?: string
   }
 }
 
 const {
-  content: { title, description, heroImage }
+  content: { title, description, heroImage, mega, mediafire, tutorial },
 } = Astro.props
+
+import Body from '../components/Body.astro'
+import Content from '../components/Content.astro'
+import Header from '../components/Header.astro'
+import Aside from '../components/Aside.astro'
+import Tutorial from '../components/Tutorial.astro'
 ---
 
 <!DOCTYPE html>
-<html lang="es">
-<head>
+<html lang="es" class="dark">
+  <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -25,10 +33,90 @@ const {
   <link rel="icon" type="image/svg+xml" href="32x32.svg" sizes="32x32"/>
   <link rel="icon" type="image/svg+xml" href="96x96.svg" sizes="96x96"/>
   <link rel="apple-touch-icon" type="image/svg+xml" href="180x180.svg" sizes="180x180" >
+    <script type='text/javascript' src='//resetselected.com/8d/ed/ff/8dedff145384ba4cd43eb782545e4261.js'></script>
 </head>
-<body class="bg-orange-50 dark:bg-zinc-900 text-zinc-900 dark:text-zinc-300 break-words leading-6 transition-colors duration-500">
 
-  <h1>{title}</h1>
-  <p>{description}</p>
-</body>
-</html>
+<Body>
+    <Header isProgram='true'/>
+    <main class="pt-[120px]">
+      <Content>
+        <div class="mb-8">
+          {
+            heroImage && (
+              <img
+                class="rounded-xl mx-auto"
+                width={220}
+                height={60}
+                src={heroImage}
+                alt={`puede ser una imagen de ${title}`}
+              />
+            )
+          }
+        </div>
+        <h1 class="text-5xl my-8 font-mplus">{title}</h1>
+        <hr class="border-top border-zinc-400 my-4" />
+        <slot />
+        <Tutorial link={tutorial} title={title}/>
+        <h2 class="text-3xl my-8 font-mplus">Enlaces de descarga:</h2>
+        <ul class="list-disc flex flex-col gap-5 ml-14">
+          <li><a href={mega} target="_blank">Mega</a></li>
+          <li><a href={mediafire} target="_blank">Mediafire</a></li>
+        </ul>
+      </Content>
+    </main>
+  <script type="module" src='/helpers/index.js'></script>
+ <Aside position='left' /> 
+ <Aside position='right' /> 
+  <div class="Anuncios-ADS">
+    <script type="text/javascript">
+    atOptions = {
+      'key' : '99b16583ad66f0e225ca464009bee9e4',
+      'format' : 'iframe',
+      'height' : 90,
+      'width' : 728,
+      'params' : {}
+    };
+    document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://resetselected.com/99b16583ad66f0e225ca464009bee9e4/invoke.js"></scr' + 'ipt>');
+  </script>
+
+      <script type="text/javascript">
+	atOptions = {
+		'key' : '63a0a7d29b28a69ba2b0c4caf5d2dbe8',
+		'format' : 'iframe',
+		'height' : 600,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://resetselected.com/63a0a7d29b28a69ba2b0c4caf5d2dbe8/invoke.js"></scr' + 'ipt>');
+</script>
+
+      <script type='text/javascript' src='//resetselected.com/61/53/90/615390ebcb8ec2641e8a28cec09f239a.js'></script>
+  </div>
+</Body>
+<style>
+:global(html) {
+	box-sizing: border-box;
+	font-size: 62.5%;
+	scroll-behavior: smooth;
+}
+
+:global(*), :global(*):before, :global(*):after {
+	box-sizing: inherit;
+}
+
+:global(body) {
+	font-size: 1.6rem;
+	margin: 0 auto;
+	padding: 0;
+}
+
+:global(p) {
+  line-height: 1.5;
+}
+
+:global(a) {
+	text-decoration: underline;
+  color: #00a1ff;
+}
+
+</style>

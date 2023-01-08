@@ -1,0 +1,22 @@
+---
+export interface Props {
+  link: string
+  title: string
+}
+
+const { link, title } = Astro.props;
+
+const isTutorial = link === ''
+
+---
+
+<section>
+  <h2 class="text-3xl my-8 font-mplus">Tutorial</h2>
+  {
+    isTutorial ? (
+      <p>Por ahora estamos trabajando en el video de <b>{title}</b>.</p>
+    ) : (
+        <iframe width="560" height="315" src={link} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    )
+  }
+</section>

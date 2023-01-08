@@ -1,5 +1,9 @@
 ---
-const { isAnuncio } = Astro.props
+const { isAnuncio, isProgram } = Astro.props
+const route = () => {
+  if (isAnuncio === 'true' || isProgram === 'true') true
+}
+
 ---
 
 <header class="header">
@@ -8,17 +12,17 @@ const { isAnuncio } = Astro.props
       <a href="/">
         <img
           class="img"
-          src={ isAnuncio ? '/logo.svg' : 'logo.svg'}
+          src={ route ? '/logo.svg' : 'logo.svg' }
           alt="puede ser la imagen de un logo que contiene el rostro de un gato negro con una c en la frente"
           loading="lazy"
         />
       </a>
     </div>
     <nav class="nav">
-      <a class="Inicio" href={isAnuncio ? '/#Inicio' : '#Inicio'}>Inicio</a>
-      <a class="Programas" href={ isAnuncio ? '/#Programas' : '#Programas'}>Programas</a>
-      <a class="About" href={ isAnuncio ? '/#About' : '#About'}>Nosotros</a>
-      <a class={ isAnuncio ? 'anchor-active' : ''} href={ isAnuncio ? '/anuncios' : 'anuncios'}>Anuncios</a>
+      <a class="Inicio" href={route ? '/#Inicio' : '#Inicio'}>Inicio</a>
+      <a class="Programas" href={ route ? '/#Programas' : '#Programas'}>Programas</a>
+      <a class="About" href={ route ? '/#About' : '#About'}>Nosotros</a>
+      <a class={ isAnuncio ? 'anchor-active' : ''} href={ route ? '/anuncios' : 'anuncios'}>Anuncios</a>
     </nav>
     <div class="menu-bar">
       <svg
