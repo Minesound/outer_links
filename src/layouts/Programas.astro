@@ -7,11 +7,12 @@ export interface Props {
     mega?: string
     mediafire?: string
     tutorial?: string
+    keywords?: string
   }
 }
 
 const {
-  content: { title, description, heroImage, mega, mediafire, tutorial },
+  content: { title, description, heroImage, mega, mediafire, tutorial, keywords },
 } = Astro.props
 
 import Body from '../components/Body.astro'
@@ -33,7 +34,11 @@ import Tutorial from '../components/Tutorial.astro'
   <link rel="icon" type="image/svg+xml" href="/32x32.svg" sizes="32x32"/>
   <link rel="icon" type="image/svg+xml" href="/96x96.svg" sizes="96x96"/>
   <link rel="apple-touch-icon" type="image/svg+xml" href="180x180.svg" sizes="180x180" >
-    <script type='text/javascript' src='//resetselected.com/8d/ed/ff/8dedff145384ba4cd43eb782545e4261.js'></script>
+  <script type='text/javascript' src='//resetselected.com/8d/ed/ff/8dedff145384ba4cd43eb782545e4261.js'></script>
+  <meta name="description" content={description} />
+  <meta name="keywords" content={keywords} />
+  <meta property="og:description" content={description} />
+  <meta property="og:site_name" content="programas.ml"/>
 </head>
 
 <Body>
