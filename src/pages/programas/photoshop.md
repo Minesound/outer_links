@@ -1,6 +1,6 @@
 ---
 description: Adobe Photoshop es una aplicación de edición de imágenes y diseño gráfico líder en el mercado. Con Photoshop, puedes crear, editar y retocar imágenes de manera profesional con herramientas avanzadas.
-keywords: Descargar Adobe Photoshop, enlace de descarga de Adobe Photoshop, descarga gratuita de Adobe Photoshop, descarga de prueba de Adobe Photoshop, descarga de Adobe Photoshop para Windows, descarga de Adobe Photoshop para Mac, descarga de Adobe Photoshop con crack, descarga completa de Adobe Photoshop, descarga de torrent de Adobe Photoshop, descarga de Adobe Photoshop con clave de serie, descarga de Adobe Photoshop para estudiantes, descarga de Adobe Photoshop con clave de activación, instalador fuera de línea de descarga de Adobe Photoshop, descarga de Adobe Photoshop con clave de licencia
+keywords: adobe photoshop, descargar adobe photoshop, adobe photoshop gratis, adobe photoshop para descargar, descargar adobe photoshop en español, adobe photoshop español, adobe photoshop descarga, descargar adobe photoshop gratis, adobe photoshop para windows, adobe photoshop para mac, adobe photoshop para linux, software de edición de imágenes, aplicación de edición de imágenes, herramientas de edición de imágenes, adobe photoshop descargar gratis, descargar adobe photoshop full, adobe photoshop full, adobe photoshop full gratis
 public: true
 layout: ../../layouts/Programas.astro
 title: Adobe Photoshop

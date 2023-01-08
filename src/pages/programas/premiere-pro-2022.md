@@ -1,6 +1,6 @@
 ---
-description: Para largometrajes completos o videos para redes sociales llamativos, Premiere Pro es el software de edición de video definitivo. Empieza a contar tu historia en video. Pruébalo gratis.
-keywords: descargar Premiere Pro, enlace de descarga de Premiere Pro, descarga gratuita de Premiere Pro, descarga de prueba de Premiere Pro, descarga de Premiere Pro para Windows, descarga de Premiere Pro para Mac, descarga de Premiere Pro con crack, descarga completa de Premiere Pro, descarga de torrent de Premiere Pro, descarga de Premiere Pro con clave de serie, descarga de Premiere Pro para estudiantes, descarga de Premiere Pro con clave de activación, instalador fuera de línea de descarga de Premiere Pro, descarga de Premiere Pro con clave de licencia
+description: Adobe Premiere Pro es una aplicación de edición de vídeo profesional que se utiliza para editar y producir vídeos para televisión, cine y web.
+keywords: adobe premiere pro, descargar adobe premiere pro, adobe premiere pro gratis, adobe premiere pro para descargar, descargar adobe premiere pro en español, adobe premiere pro español, adobe premiere pro descarga, descargar adobe premiere pro gratis, adobe premiere pro para windows, adobe premiere pro para mac, adobe premiere pro para linux, software de edición de vídeo, aplicación de edición de vídeo, herramientas de edición de vídeo, adobe premiere pro descargar gratis, descargar adobe premiere pro full, adobe premiere pro full, adobe premiere pro full gratis
 public: true
 layout: ../../layouts/Programas.astro
 title: Adobe Premiere Pro 2022
