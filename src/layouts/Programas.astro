@@ -24,7 +24,7 @@ import Tutorial from '../components/Tutorial.astro'
 
 <!DOCTYPE html>
 <html lang="es" class="dark">
-  <head>
+<head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -34,11 +34,21 @@ import Tutorial from '../components/Tutorial.astro'
   <link rel="icon" type="image/svg+xml" href="/32x32.svg" sizes="32x32"/>
   <link rel="icon" type="image/svg+xml" href="/96x96.svg" sizes="96x96"/>
   <link rel="apple-touch-icon" type="image/svg+xml" href="180x180.svg" sizes="180x180" >
-  <script type='text/javascript' src='//resetselected.com/8d/ed/ff/8dedff145384ba4cd43eb782545e4261.js'></script>
   <meta name="description" content={description} />
   <meta name="keywords" content={keywords} />
   <meta property="og:description" content={description} />
   <meta property="og:site_name" content="programas.ml"/>
+  <!-- Analitycs -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-CX5LSP1M8X"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-CX5LSP1M8X');
+  </script>
+  <!-- ADS -->
+  <script type='text/javascript' src='//resetselected.com/8d/ed/ff/8dedff145384ba4cd43eb782545e4261.js'></script>
 </head>
 
 <Body>
