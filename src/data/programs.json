@@ -1,11 +1,19 @@
 [
   {
+    "id": "14",
+    "title": "Adobe After Effects 2022",
+    "description": "Adobe After Effects 2022 full en todos los idiomas. 1 sólo intalador.",
+    "url": "/programas/after-effects",
+    "pwd": "rxtsel",
+    "img": "after-effects.svg",
+    "alt": "Puede ser el icono del logo de adobe after effects 2022"
+  },
+  {
     "id": "13",
     "title": "Adobe Premiere Pro 2022",
     "description": "Adobe Premiere Pro 2022 full en todos los idiomas. 1 sólo intalador.",
     "url": "/programas/premiere-pro-2022",
     "pwd": "rxtsel",
-    "steps": "",
     "img": "premiere.svg",
     "alt": "Puede ser el icono del logo de adobe premiere pro 2022"
   },
@@ -15,7 +23,6 @@
     "description": "Adobe Photoshop 2021 full en todos los idiomas. 1 sólo intalador.",
     "url": "/programas/photoshop",
     "pwd": "rxtsel",
-    "steps": "",
     "img": "photoshop.svg",
     "alt": "Puede ser el icono del logo de adobe photoshop"
   },
@@ -25,7 +32,6 @@
     "description": "Adobe Illustrator 2021 full en todos los idiomas. 1 sólo intalador.",
     "url": "/programas/illustrator",
     "pwd": "rxtsel",
-    "steps": "",
     "img": "illustrator.svg",
     "alt": "Puede ser el icono del logo de adobe illustrator"
   },
@@ -35,7 +41,6 @@
     "description": "Adobe Premiere Pro 2020 full en todos los idiomas. 1 sólo intalador.",
     "url": "/programas/premiere-pro-2021",
     "pwd": "rxtsel",
-    "steps": "",
     "img": "premiere.svg",
     "alt": "Puede ser el icono del logo de adobe premiere pro"
   },
@@ -45,7 +50,6 @@
     "description": "Adobe Acrobat Pro DC 2021 full en todos los idiomas. 1 sólo intalador.",
     "url": "/programas/adobe-acrobat-pro",
     "pwd": "rxtsel",
-    "steps": "",
     "img": "acrobat.png",
     "alt": "Puede ser el icono del logo de adobe acrobat pro"
   },
@@ -55,7 +59,6 @@
     "description": "Dolby Atmos Full. Version Basic y Gaming.",
     "url": "/programas/dolby-atmos",
     "pwd": "rxtsel",
-    "steps": "",
     "img": "dolby.jpeg",
     "alt": "Puede ser el icono del logo de dolby atmos"
   },
@@ -65,7 +68,6 @@
     "description": "Instala la última versión de tus drivers o busca los que te hagan falta.",
     "url": "https://exe.io/tFDzL6P2",
     "pwd": "rxtsel",
-    "steps": "",
     "img": "driver-easy.svg",
     "alt": "Puede ser el icono del logo de driver easy"
   },
@@ -75,7 +77,6 @@
     "description": "Desinstala programas sin dejar ningún archivo basura.",
     "url": "/programas/iobit-uninstaller-pro",
     "pwd": "rxtsel",
-    "steps": "",
     "img": "iobit.png",
     "alt": "Puede ser el icono del logo de iobit uninstaller pro"
   },
@@ -85,7 +86,6 @@
     "description": "Poderosísima herramienta para grabar pantalla o editar vídeos.",
     "url": "/programas/camtasia-studio",
     "pwd": "rxtsel",
-    "steps": "",
     "img": "camtasia.png",
     "alt": "Puede ser el icono del logo de camtasia estudio"
   },
@@ -95,7 +95,6 @@
     "description": "Ejecuta máquinas virtuales en PC con Linux o Windows.",
     "url": "/programas/vmware",
     "pwd": "rxtsel",
-    "steps": "",
     "img": "vmware.png",
     "alt": "Puede ser el icono del logo de vmware workstation pro"
   },
@@ -105,7 +104,6 @@
     "description": "Herramienta premium para escanear. Soporta todas las impresoras.",
     "url": "https://exe.io/BzOvdYX",
     "pwd": "rxtsel",
-    "steps": "",
     "img": "vuescan.png",
     "alt": "Puede ser el icono del logo de vuescan"
   },
@@ -115,7 +113,6 @@
     "description": "Administrador de particiones, conversión de discos, recupera datos.",
     "url": "https://exe.io/vF6zy",
     "pwd": "rxtsel",
-    "steps": "",
     "img": "minitool.jpg",
     "alt": "Puede ser el icono del logo de minitool partition wizard"
   },
@@ -125,7 +122,6 @@
     "description": "Instala licencias de windows y de office permanentemente gratis.",
     "url": "https://exe.io/Ah1LJ3e",
     "pwd": "rxtsel",
-    "steps": "",
     "img": "kmspico.png",
     "alt": "Puede ser el icono del logo de kmspico"
   },
@@ -135,7 +131,6 @@
     "description": "Instalador de Office 365 completamente original.",
     "url": "https://exe.io/xcw5esu",
     "pwd": "rxtsel",
-    "steps": "",
     "img": "office.svg",
     "alt": "Puede ser el icono del logo de pack de office 365"
   }
