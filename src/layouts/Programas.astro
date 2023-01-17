@@ -74,7 +74,10 @@ import Tutorial from '../components/Tutorial.astro'
         <Tutorial link={tutorial} title={title}/>
         <h2 class="text-3xl my-8 font-mplus">Enlaces de descarga:</h2>
         <ul class="list-disc flex flex-col gap-5 ml-14 mb-10">
-          <li><a class="underline text-sky-500" href={mega} target="_blank">Mega</a></li>
+          {
+            mega === "" ? "" : <li><a class="underline text-sky-500" href={mega} target="_blank">Mega</a></li>
+          }
+
           {
             mediafire === "" ? "" : <li><a class="underline text-sky-500" href={mediafire} target="_blank">Mediafire</a></li>
           }
