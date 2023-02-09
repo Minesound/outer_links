@@ -118,9 +118,9 @@
   },
   {
     "id": "1",
-    "title": "KMSpiko",
+    "title": "KMSpico",
     "description": "Instala licencias de windows y de office permanentemente gratis.",
-    "url": "https://exe.io/Ah1LJ3e",
+    "url": "/programas/kmspico",
     "pwd": "rxtsel",
     "img": "kmspico.png",
     "alt": "Puede ser el icono del logo de kmspico"
@@ -129,7 +129,7 @@
     "id": "0",
     "title": "Office 365",
     "description": "Instalador de Office 365 completamente original.",
-    "url": "https://exe.io/xcw5esu",
+    "url": "/programas/office",
     "pwd": "rxtsel",
     "img": "office.svg",
     "alt": "Puede ser el icono del logo de pack de office 365"
