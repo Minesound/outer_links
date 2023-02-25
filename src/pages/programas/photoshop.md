@@ -6,9 +6,12 @@ layout: ../../layouts/Programas.astro
 title: Adobe Photoshop
 heroImage: /photoshop.svg
 slug: adobe-photoshop
-mega: "https://exe.io/AdobePs"
-mediafire: "https://exe.io/PS-mediafire"
 tutorial: ""
+versions:
+  - v2021:
+    - mega: "https://exe.io/AdobePs"
+    - mediafire: "https://exe.io/PS-mediafire"
+    - upfiles: ""
 ---
 
 Adobe Photoshop es una aplicación de edición de imágenes y diseño gráfico líder en el mercado. Con Photoshop, puedes crear, editar y retocar imágenes de manera profesional con herramientas avanzadas. Además, cuenta con una amplia variedad de efectos y filtros para darle un toque único a tus imágenes. Utiliza Photoshop para crear imágenes para redes sociales, diseños de logotipos, montajes de fotos y mucho más. Con la integración de Creative Cloud, puedes acceder a tus archivos en cualquier lugar y desde cualquier dispositivo. ¡Descarga Adobe Photoshop hoy mismo y comienza a crear imágenes impresionantes!

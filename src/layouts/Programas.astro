@@ -4,15 +4,20 @@ export interface Props {
     title: string
     description: string
     heroImage?: string
-    mega?: string
-    mediafire?: string
     tutorial?: string
     keywords?: string
+    versions?: {
+      [key: string]: {
+        mega?: string
+        mediafire?: string
+        upfiles?: string
+      }
+    }
   }
 }
 
 const {
-  content: { title, description, heroImage, mega, mediafire, tutorial, keywords },
+  content: { title, description, heroImage, tutorial, keywords, versions },
 } = Astro.props
 
 import Body from '../components/Body.astro'
@@ -20,6 +25,7 @@ import Content from '../components/Content.astro'
 import Header from '../components/Header.astro'
 import Aside from '../components/Aside.astro'
 import Tutorial from '../components/Tutorial.astro'
+
 ---
 
 <!DOCTYPE html>
@@ -73,16 +79,29 @@ import Tutorial from '../components/Tutorial.astro'
         <hr class="border-top border-zinc-400 my-4" />
         <slot />
         <Tutorial link={tutorial} title={title}/>
-        <h2 class="text-3xl my-8 font-mplus">Enlaces de descarga:</h2>
-        <ul class="list-disc flex flex-col gap-5 ml-14 mb-10">
-          {
-            mega === "" ? "" : <li><a class="underline text-sky-500" href={mega} target="_blank">Mega</a></li>
-          }
 
-          {
-            mediafire === "" ? "" : <li><a class="underline text-sky-500" href={mediafire} target="_blank">Mediafire</a></li>
-          }
-        </ul>
+        <h2 class="text-3xl my-8 font-mplus">Enlaces de descarga:</h2>
+
+        {
+          versions && versions.map(version => (
+            <>
+              <h3 class="text-3xl my-8 font-mplus ml-14">{Object.keys(version)}</h3>
+              <ul class="list-disc flex flex-col gap-5 ml-28 mb-10">
+                {
+                  Object.values(version)[0][0].mega === "" ? null : <li><a class="underline text-sky-500" href={Object.values(version)[0][0].mega} target="_blank">Mega</a></li>
+                }
+
+                {
+                  Object.values(version)[0][1].mediafire === "" ? null : <li><a class="underline text-sky-500" href={Object.values(version)[0][1].mediafire} target="_blank">Mediafire</a></li>
+                }
+
+                {
+                  !Object.values(version)[0][2].upfiles ? null : <li><a class="underline text-sky-500" href={Object.values(version)[0][2].upfiles} target="_blank">Upfiles</a></li>
+                }
+              </ul>
+            </>
+          ))
+        }
 
         <p class="mb-32">Contraseña: <b>rxtsel</b></p>
 

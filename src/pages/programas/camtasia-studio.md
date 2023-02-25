@@ -6,9 +6,12 @@ layout: ../../layouts/Programas.astro
 title: Camtasia Studio
 heroImage: /camtasia.png
 slug: camtasia-studio
-mega: "https://exe.io/8OkIF4vv"
-mediafire: "https://exe.io/camtasia-md"
-tutorial: "https://www.youtube.com/embed/iIDu66S7yuc"
+tutorial: ""
+versions:
+  - v2021:
+    - mega: "https://exe.io/8OkIF4vv"
+    - mediafire: "https://exe.io/camtasia-md"
+    - upfiles: ""
 ---
 
 Camtasia Studio es una aplicación de edición de video y captura de pantalla diseñada para facilitar la creación de contenido de alta calidad. Con Camtasia Studio, puedes grabar tu pantalla y tu voz con facilidad y editar el video con herramientas de edición avanzadas. Además, cuenta con una amplia variedad de efectos y transiciones para darle un toque profesional a tus videos. Utiliza Camtasia Studio para crear tutoriales, demostraciones, presentaciones y más. Con la integración de TechSmith Fuse, puedes importar fotos y vídeos de tu dispositivo móvil directamente a Camtasia Studio. ¡Descarga Camtasia Studio hoy mismo y comienza a crear contenido de video impresionante!

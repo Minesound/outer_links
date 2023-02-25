@@ -6,9 +6,12 @@ layout: ../../layouts/Programas.astro
 title: Microsoft Office 365
 heroImage: /office.svg
 slug: office
-mega: "https://exe.io/xcw5esu"
-mediafire: "https://exe.io/officeMG"
 tutorial: ""
+versions:
+  - Version Original:
+    - mega: "https://exe.io/xcw5esu"
+    - mediafire: "https://exe.io/officeMG"
+    - upfiles: ""
 ---
 
 Microsoft Office es la suite de productividad líder en el mundo empresarial. Con herramientas como Word, Excel y PowerPoint, puedes crear, editar y compartir documentos, hojas de cálculo y presentaciones de manera eficiente y profesional. Únete a millones de usuarios que confían en Microsoft Office para alcanzar sus metas y lograr más cada día.

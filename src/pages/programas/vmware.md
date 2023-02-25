@@ -6,9 +6,13 @@ layout: ../../layouts/Programas.astro
 title: VMware 16 Pro
 heroImage: /vmware.png
 slug: vmware
-mega: "https://exe.io/nrnf3gjL"
-mediafire: "https://exe.io/vmware-md"
 tutorial: ""
+versions:
+  - v17:
+    - mega: "https://exe.io/nrnf3gjL"
+    - mediafire: "https://exe.io/vmware-md"
+    - upfiles: ""
+
 ---
 
 VMware es un software de virtualización que permite a los usuarios crear y ejecutar máquinas virtuales en su equipo. Esto significa que puedes tener varios sistemas operativos instalados y ejecutándose al mismo tiempo en un solo equipo físico, lo que te permite trabajar con diferentes aplicaciones y sistemas operativos sin tener que tener varias computadoras

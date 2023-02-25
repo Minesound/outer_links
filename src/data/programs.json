@@ -1,60 +1,45 @@
 [
   {
-    "id": "14",
-    "title": "Adobe After Effects 2022",
-    "description": "Adobe After Effects 2022 full en todos los idiomas. 1 sólo intalador.",
+    "title": "Adobe After Effects",
+    "description": "Adobe After Effects full en todos los idiomas. 1 sólo intalador.",
     "url": "/programas/after-effects",
     "pwd": "rxtsel",
     "img": "after-effects.svg",
-    "alt": "Puede ser el icono del logo de adobe after effects 2022"
-  },
+    "alt": "Puede ser el icono del logo de adobe after effects"
+  } ,
   {
-    "id": "13",
-    "title": "Adobe Premiere Pro 2022",
-    "description": "Adobe Premiere Pro 2022 full en todos los idiomas. 1 sólo intalador.",
-    "url": "/programas/premiere-pro-2022",
-    "pwd": "rxtsel",
-    "img": "premiere.svg",
-    "alt": "Puede ser el icono del logo de adobe premiere pro 2022"
-  },
-  {
-    "id": "12",
     "title": "Adobe Photoshop",
-    "description": "Adobe Photoshop 2021 full en todos los idiomas. 1 sólo intalador.",
+    "description": "Adobe Photoshop full en todos los idiomas. 1 sólo intalador.",
     "url": "/programas/photoshop",
     "pwd": "rxtsel",
     "img": "photoshop.svg",
     "alt": "Puede ser el icono del logo de adobe photoshop"
   },
   {
-    "id": "11",
     "title": "Adobe Illustrator",
-    "description": "Adobe Illustrator 2021 full en todos los idiomas. 1 sólo intalador.",
+    "description": "Adobe Illustrator full en todos los idiomas. 1 sólo intalador.",
     "url": "/programas/illustrator",
     "pwd": "rxtsel",
     "img": "illustrator.svg",
     "alt": "Puede ser el icono del logo de adobe illustrator"
   },
   {
-    "id": "10",
-    "title": "Adobe Premiere Pro 2021",
-    "description": "Adobe Premiere Pro 2020 full en todos los idiomas. 1 sólo intalador.",
-    "url": "/programas/premiere-pro-2021",
+    "title": "Adobe Premiere Pro",
+    "description": "Adobe Premiere Pro full en todos los idiomas. 1 sólo intalador.",
+    "url": "/programas/premiere-pro",
     "pwd": "rxtsel",
     "img": "premiere.svg",
     "alt": "Puede ser el icono del logo de adobe premiere pro"
   },
   {
-    "id": "9",
     "title": "Adobe Acrobat Pro",
-    "description": "Adobe Acrobat Pro DC 2021 full en todos los idiomas. 1 sólo intalador.",
+    "description": "Adobe Acrobat Pro DC (PDF) full en todos los idiomas. 1 sólo intalador.",
     "url": "/programas/adobe-acrobat-pro",
     "pwd": "rxtsel",
     "img": "acrobat.png",
     "alt": "Puede ser el icono del logo de adobe acrobat pro"
   },
   {
-    "id": "8",
     "title": "Dolby Atmos",
     "description": "Dolby Atmos Full. Version Basic y Gaming.",
     "url": "/programas/dolby-atmos",
@@ -63,7 +48,6 @@
     "alt": "Puede ser el icono del logo de dolby atmos"
   },
   {
-    "id": "7",
     "title": "Driver Easy",
     "description": "Instala la última versión de tus drivers o busca los que te hagan falta.",
     "url": "https://exe.io/tFDzL6P2",
@@ -72,7 +56,6 @@
     "alt": "Puede ser el icono del logo de driver easy"
   },
   {
-    "id": "6",
     "title": "Iobit Uninstaller Pro",
     "description": "Desinstala programas sin dejar ningún archivo basura.",
     "url": "/programas/iobit-uninstaller-pro",
@@ -81,7 +64,6 @@
     "alt": "Puede ser el icono del logo de iobit uninstaller pro"
   },
   {
-    "id": "5",
     "title": "Camtasia Studio",
     "description": "Poderosísima herramienta para grabar pantalla o editar vídeos.",
     "url": "/programas/camtasia-studio",
@@ -90,7 +72,6 @@
     "alt": "Puede ser el icono del logo de camtasia estudio"
   },
   {
-    "id": "4",
     "title": "VMware 16 Pro",
     "description": "Ejecuta máquinas virtuales en PC con Linux o Windows.",
     "url": "/programas/vmware",
@@ -99,7 +80,6 @@
     "alt": "Puede ser el icono del logo de vmware workstation pro"
   },
   {
-    "id": "3",
     "title": "Vuescan",
     "description": "Herramienta premium para escanear. Soporta todas las impresoras.",
     "url": "https://exe.io/BzOvdYX",
@@ -108,7 +88,6 @@
     "alt": "Puede ser el icono del logo de vuescan"
   },
   {
-    "id": "2",
     "title": "MiniTool Partition",
     "description": "Administrador de particiones, conversión de discos, recupera datos.",
     "url": "https://exe.io/vF6zy",
@@ -117,7 +96,6 @@
     "alt": "Puede ser el icono del logo de minitool partition wizard"
   },
   {
-    "id": "1",
     "title": "KMSpico",
     "description": "Instala licencias de windows y de office permanentemente gratis.",
     "url": "/programas/kmspico",
@@ -126,7 +104,6 @@
     "alt": "Puede ser el icono del logo de kmspico"
   },
   {
-    "id": "0",
     "title": "Office 365",
     "description": "Instalador de Office 365 completamente original.",
     "url": "/programas/office",
