@@ -4,7 +4,7 @@ keywords: iobit uninstaller, descargar iobit uninstaller, iobit uninstaller grat
 public: true
 layout: ../../layouts/Programas.astro
 title: Iobit Uninstaller Pro
-heroImage: /iobit.png
+heroImage: /iobit.svg
 slug: adobe-uninstaller-pro
 tutorial: ""
 versions:

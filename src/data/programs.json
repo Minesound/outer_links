@@ -1,12 +1,28 @@
 [
   {
+    "title": "Adobe Lightroom Classic",
+    "description": "Adobe lightroom classic full en todos los idiomas. 1 sólo intalador.",
+    "url": "/programas/adobe-lightroom-classic",
+    "pwd": "rxtsel",
+    "img": "lrc.svg",
+    "alt": "Puede ser el icono del logo de adobe lightroom classic"
+  },
+  {
+    "title": "Adobe inDesign", 
+    "description": "Adobe inDesign full en todos los idiomas. 1 sólo intalador.",
+    "url": "/programas/adobe-indesign",
+    "pwd": "rxtsel",
+    "img": "indesign.svg",
+    "alt": "Puede ser el icono del logo de adobe indesign"
+  },
+  {
     "title": "Adobe After Effects",
     "description": "Adobe After Effects full en todos los idiomas. 1 sólo intalador.",
     "url": "/programas/after-effects",
     "pwd": "rxtsel",
     "img": "after-effects.svg",
     "alt": "Puede ser el icono del logo de adobe after effects"
-  } ,
+  },
   {
     "title": "Adobe Photoshop",
     "description": "Adobe Photoshop full en todos los idiomas. 1 sólo intalador.",
@@ -60,7 +76,7 @@
     "description": "Desinstala programas sin dejar ningún archivo basura.",
     "url": "/programas/iobit-uninstaller-pro",
     "pwd": "rxtsel",
-    "img": "iobit.png",
+    "img": "iobit.svg",
     "alt": "Puede ser el icono del logo de iobit uninstaller pro"
   },
   {
