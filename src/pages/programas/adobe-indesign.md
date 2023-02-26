@@ -8,7 +8,7 @@ heroImage: /indesign.svg
 slug: adobe-indesign
 tutorial: "https://www.youtube.com/embed/rXaH1FyMG_M"
 versions:
-  - v2023:
+  - v2022:
     - mega: "https://exe.io/AID"
     - mediafire: ""
     - upfiles: "https://exe.io/AID_2023_UP"
