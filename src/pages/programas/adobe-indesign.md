@@ -6,7 +6,7 @@ layout: ../../layouts/Programas.astro
 title: Adobe InDesign
 heroImage: /indesign.svg
 slug: adobe-indesign
-tutorial: ""
+tutorial: "https://www.youtube.com/embed/rXaH1FyMG_M"
 versions:
   - v2023:
     - mega: "https://exe.io/AID"
