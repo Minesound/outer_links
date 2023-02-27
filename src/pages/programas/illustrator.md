@@ -6,7 +6,7 @@ layout: ../../layouts/Programas.astro
 title: Adobe Illustrator
 heroImage: /illustrator.svg
 slug: adobe-illustrator
-tutorial: "https://www.youtube.com/embed/INkQnmkrUxw"
+tutorial: "https://www.youtube.com/embed/gLmzaywghlc"
 versions:
   - v2021:
     - mega: "https://exe.io/HqrC7"
