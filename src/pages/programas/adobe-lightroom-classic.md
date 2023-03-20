@@ -9,9 +9,9 @@ slug: adobe-lightroom-classic
 tutorial: ""
 versions:
   - v2023:
-    - mega: "https://exe.io/ALRC_2023_Mg"
-    - mediafire: ""
-    - upfiles: "https://exe.io/ALRC_2023_UP"
+      - mega: "https://cuty.io/eMfZOr"
+      - mediafire: ""
+      - upfiles: "https://cuty.io/J6y9VeWgoc"
 ---
 
 Edición de fotos profesional y eficiente con Adobe Lightroom Classic. Con herramientas de edición avanzadas y ajustes preestablecidos personalizados, Lightroom Classic te permite crear imágenes impresionantes en menos tiempo. Además, la organización y la gestión de fotos nunca han sido tan fáciles gracias al catálogo de fotos integrado. Ya seas un fotógrafo profesional o un aficionado, Lightroom Classic es la elección perfecta para llevar tus fotos al siguiente nivel. ¡Empieza a editar hoy mismo con Adobe Lightroom Classic!

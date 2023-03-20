@@ -9,9 +9,9 @@ slug: kmspico
 tutorial: ""
 versions:
   - Version Oficial:
-    - mega: "https://exe.io/Ah1LJ3e"
-    - mediafire: "https://exe.io/KMSpicoMG"
-    - upfiles: ""
+      - mega: "https://cuty.io/Gb9QwejblXUf"
+      - mediafire: "https://cuty.io/XN5fx9oT6y6o"
+      - upfiles: ""
 ---
 
 KMSpico es un software de activación de Windows y Microsoft Office que se utiliza para activar estos productos de manera ilegal sin necesidad de una clave de producto o licencia original.

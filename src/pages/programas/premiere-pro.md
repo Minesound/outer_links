@@ -11,13 +11,13 @@ mediafire: ""
 tutorial: ""
 versions:
   - v2021:
-    - mega: "https://exe.io/ff6M"
-    - mediafire: ""
-    - upfiles: ""
+      - mega: "https://cuty.io/dGC3z19"
+      - mediafire: ""
+      - upfiles: ""
   - v2022:
-    - mega: "https://exe.io/Premiere2022Mega"
-    - mediafire: "https://exe.io/Premiere2022"
-    - upfiles: ""
+      - mega: "https://cuty.io/sQTpCXs"
+      - mediafire: "https://cuty.io/UrCGZMLf"
+      - upfiles: ""
 ---
 
 Adobe Premiere Pro es una aplicación de edición de vídeo profesional que se utiliza para editar y producir vídeos para televisión, cine y web. Ofrece una amplia variedad de herramientas y características para mejorar y personalizar tus vídeos, como la posibilidad de añadir efectos especiales, transiciones, títulos y subtítulos. También cuenta con una interfaz de usuario intuitiva y fácil de usar, lo que la hace adecuada tanto para principiantes como para profesionales. Con Adobe Premiere Pro, puedes crear vídeos de alta calidad y profesionales con un aspecto y sonido impecables.

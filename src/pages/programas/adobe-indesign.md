@@ -9,9 +9,9 @@ slug: adobe-indesign
 tutorial: "https://www.youtube.com/embed/rXaH1FyMG_M"
 versions:
   - v2022:
-    - mega: "https://exe.io/AID"
-    - mediafire: ""
-    - upfiles: "https://exe.io/AID_2023_UP"
+      - mega: "https://cuty.io/Xc2FXe0z5pu"
+      - mediafire: ""
+      - upfiles: "https://cuty.io/qIk0970wuSA"
 ---
 
 Crea diseños impactantes y profesionales con <b>Adobe InDesign</b>. Desde revistas y libros hasta folletos y presentaciones, InDesign te brinda todas las herramientas que necesitas para llevar tus ideas al siguiente nivel. Con su interfaz intuitiva y su amplia gama de funciones, InDesign es la elección perfecta para diseñadores y creativos que buscan una solución completa y poderosa para la maquetación y diseño de páginas. ¡Empieza a crear hoy mismo con Adobe InDesign!
