@@ -9,13 +9,13 @@ slug: adobe-illustrator
 tutorial: "https://www.youtube.com/embed/gLmzaywghlc"
 versions:
   - v2021:
-    - mega: "https://exe.io/HqrC7"
-    - mediafire: "https://exe.io/IllustratorMediafire"
-    - upfiles: ""
+      - mega: "https://cuty.io/nNWA31"
+      - mediafire: "https://cuty.io/AeJk4T"
+      - upfiles: ""
   - v2023:
-    - mega: "https://exe.io/AI2023Mg"
-    - mediafire: ""
-    - upfiles: "https://exe.io/AI_UP"
+      - mega: "https://cuty.io/VGBm4RSTiLPj"
+      - mediafire: ""
+      - upfiles: "https://cuty.io/MWZTRcJ8PX"
 ---
 
 Adobe Illustrator es una aplicación de diseño gráfico vectorial utilizada por profesionales en todo el mundo. Con Illustrator, puedes crear diseños para impresión, web y móviles con precisión y facilidad. Cuenta con una amplia variedad de herramientas y funciones que te permiten dar forma a tus ideas y crear diseños impactantes. Utiliza Illustrator para crear logotipos, iconos, bocetos, tipografía y mucho más. Con la integración de Creative Cloud, puedes acceder a tus diseños en cualquier lugar y colaborar con otros creativos. ¡Descarga Adobe Illustrator hoy mismo y empieza a crear diseños increíbles!
