@@ -1,15 +1,15 @@
 [
   {
     "title": "Adobe Lightroom Classic",
-    "description": "Adobe lightroom classic full en todos los idiomas. 1 sólo intalador.",
+    "description": "Adobe lightroom classic full en todos los idiomas. 1 sólo instalador.",
     "url": "/programas/adobe-lightroom-classic",
     "pwd": "rxtsel",
     "img": "lrc.svg",
     "alt": "Puede ser el icono del logo de adobe lightroom classic"
   },
   {
-    "title": "Adobe inDesign", 
-    "description": "Adobe inDesign full en todos los idiomas. 1 sólo intalador.",
+    "title": "Adobe inDesign",
+    "description": "Adobe inDesign full en todos los idiomas. 1 sólo instalador.",
     "url": "/programas/adobe-indesign",
     "pwd": "rxtsel",
     "img": "indesign.svg",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Adobe After Effects",
-    "description": "Adobe After Effects full en todos los idiomas. 1 sólo intalador.",
+    "description": "Adobe After Effects full en todos los idiomas. 1 sólo instalador.",
     "url": "/programas/after-effects",
     "pwd": "rxtsel",
     "img": "after-effects.svg",
@@ -25,7 +25,7 @@
   },
   {
     "title": "Adobe Photoshop",
-    "description": "Adobe Photoshop full en todos los idiomas. 1 sólo intalador.",
+    "description": "Adobe Photoshop full en todos los idiomas. 1 sólo instalador.",
     "url": "/programas/photoshop",
     "pwd": "rxtsel",
     "img": "photoshop.svg",
@@ -33,7 +33,7 @@
   },
   {
     "title": "Adobe Illustrator",
-    "description": "Adobe Illustrator full en todos los idiomas. 1 sólo intalador.",
+    "description": "Adobe Illustrator full en todos los idiomas. 1 sólo instalador.",
     "url": "/programas/illustrator",
     "pwd": "rxtsel",
     "img": "illustrator.svg",
@@ -41,7 +41,7 @@
   },
   {
     "title": "Adobe Premiere Pro",
-    "description": "Adobe Premiere Pro full en todos los idiomas. 1 sólo intalador.",
+    "description": "Adobe Premiere Pro full en todos los idiomas. 1 sólo instalador.",
     "url": "/programas/premiere-pro",
     "pwd": "rxtsel",
     "img": "premiere.svg",
@@ -49,7 +49,7 @@
   },
   {
     "title": "Adobe Acrobat Pro",
-    "description": "Adobe Acrobat Pro DC (PDF) full en todos los idiomas. 1 sólo intalador.",
+    "description": "Adobe Acrobat Pro DC (PDF) full en todos los idiomas. 1 sólo instalador.",
     "url": "/programas/adobe-acrobat-pro",
     "pwd": "rxtsel",
     "img": "acrobat.png",
